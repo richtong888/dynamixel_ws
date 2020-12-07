@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/richtong/dynamixel_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox/examples/devel/setup.sh

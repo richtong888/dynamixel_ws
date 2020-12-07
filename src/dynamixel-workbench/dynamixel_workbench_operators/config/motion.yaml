@@ -1,0 +1,13 @@
+joint:
+  names: [tilt_11, tilt_12, tilt_21, tilt_22, tilt_31, tilt_32]
+motion:
+  names: [right, left]
+  right:
+    step: [-1, -1,-1, -1,-1, -1]  # radian
+    time_from_start: 0.25  # sec
+  left:
+    step: [0.3, 0.2,0.3, 0.2,0.3, 0.2]
+    time_from_start: 0.5
+
+
+
