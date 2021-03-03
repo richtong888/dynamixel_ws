@@ -3,7 +3,7 @@ joint:
 motion:
   names: [right, left]
   right:
-    step: [-1, -1,-1, -1,-1, -1]  # radian
+    step: [0, -1,0, -1,0, -1]  # radian
     time_from_start: 0.25  # sec
   left:
     step: [0.3, 0.2,0.3, 0.2,0.3, 0.2]
